@@ -37,7 +37,7 @@ for icon in iconListJSON.keys():
     iconName = icon.split('::')[1]
     if not path.exists('png/temp/white/' + iconCategory):
         mkdir('png/temp/white/' + iconCategory)
-        # mkdir('png/temp/black/' + iconCategory)
+        mkdir('png/temp/black/' + iconCategory)
         mkdir('png/white/' + iconCategory)
         mkdir('png/black/' + iconCategory)
 
