@@ -10,8 +10,9 @@
 ![](/png/examples/usb_white.png)
 
 ## How to use
-To download the icons, just visit the releases page and 
-download the latest. 
+To download the icons, just visit the 
+[releases page](https://github.com/CoolCash1/Stream-Deck-MDI-Icons/releases/tag/release) 
+and download the latest. 
 
 ## Building icons
 The icons are pulled directly from Google's github then 
