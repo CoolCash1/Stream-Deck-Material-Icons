@@ -1,4 +1,4 @@
-# Stream Deck MDI Icons
+# Stream Deck Material Icons
  Automatically updating Stream Deck icon pack based on 
  [Googles Material Design Icons](https://github.com/google/material-design-icons)
 
